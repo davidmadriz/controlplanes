@@ -1,0 +1,46 @@
+.rotulo{
+	font-size:40px;
+	text-align: center;
+	background-color: #038C7F;
+	padding: 10px;
+	color: #D2D904;
+}
+.center{
+	text-align: center !important;
+}
+body, a, button, input{
+	margin: 0px;
+	font-family: 'Advent Pro', sans-serif !important;
+	font-size: 22px !important;
+
+}
+
+.btn-2:link, .btn-2:visited{
+  background-color: #D2D904;
+  color: #038C7F;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+  font-size: 35px !important;
+}
+
+.btn-2:hover, .btn-2:active {
+  background-color: #DBC202 !important;
+  color: white !important;
+}
+.footer{
+	color: gray;
+	font-style:  italic;
+}
+.menu{
+	color: gray !important;
+	font-style: italic !important;
+	float: right !important;
+}
+.red{
+	color: white !important;
+	background-color: red !important;
+	width: 100% !important;
+	border-radius: 4px !important;
+}
