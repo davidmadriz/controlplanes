@@ -13,10 +13,12 @@ $conn = mysql_connect("localhost","root","root")
  * using mysqli_connect instead
  */
 
-$databaseHost = 'localhost';
-$databaseName = 'controlplanes';
-$databaseUsername = 'root';
-$databasePassword = 'admin123';
+
+
+$databaseHost = 'b6w7dnsloorszuyrgvfl-mysql.services.clever-cloud.com';
+$databaseName = 'b6w7dnsloorszuyrgvfl';
+$databaseUsername = 'u3jmsprzk9lazeno';
+$databasePassword = 'U5X9zSyPrHYhCJPyZOz6';
 
 $mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
 	
